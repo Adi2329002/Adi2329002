@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Many things<br>👯 I’m looking to collaborate on ML , IOT and Cyber Securities projects<br>🤝 I’m looking for help with Defensive Hacking <br>🌱 I’m currently learning Rust, ML and AI, Defensive hacking<br>💬 Ask me about any thing about technology if know it I know it<br>⚡ Fun fact :<br>🖱️ The first computer mouse was made of wood. It was invented by Douglas Engelbart in 1964 and <br>was a simple rectangular block with a single button and a cord that stuck out like a tail, which is <br>how it got its name.
+🔭 I’m currently working on Many things<br>👯 I’m looking to collaborate on ML , IOT and Cyber Securities projects<br>🤝 I’m looking for help with Defensive Hacking <br>🌱 I’m currently learning Rust, ML and AI, Defensive hacking<br>⚡ Fun fact :<br>🖱️ The first computer mouse was made of wood. It was invented by Douglas Engelbart in 1964 and <br>was a simple rectangular block with a single button and a cord that stuck out like a tail, which is <br>how it got its name.
 
 
 ## 🌐 Socials:
